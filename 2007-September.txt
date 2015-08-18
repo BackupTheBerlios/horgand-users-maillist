@@ -1,0 +1,48 @@
+From holborn at telefonica.net  Wed Sep  5 20:14:00 2007
+From: holborn at telefonica.net (holborn)
+Date: Wed, 5 Sep 2007 19:14:00 +0100
+Subject: [horgand-users] New Sound Banks
+Message-ID: <200709051914.00223.holborn@telefonica.net>
+
+
+Hi all ....
+
+
+well ... all ... we are 3 :-)
+
+Anyway .... I put on the ftp ... 3 new sound banks to use with horgand 
+v1.11  ... and only with v1.11.
+
+Also ... there is a small demo. 
+Maybe I will record something more in these days.
+
+
+Visit http://horgand.berlios.de you will find the links.
+
+Josep
+
+
+
+
+From holborn at telefonica.net  Sat Sep 29 04:52:48 2007
+From: holborn at telefonica.net (holborn)
+Date: Sat, 29 Sep 2007 03:52:48 +0100
+Subject: [horgand-users] New sound bank available
+Message-ID: <200709290352.48443.holborn@telefonica.net>
+
+
+
+Hi
+
+A new soundbank most non organ sounds available on the main web.
+
+ftp://ftp.berlios.de/pub/horgand/Bank5.horeb
+
+
+
+
+
+Josep
+
+
+

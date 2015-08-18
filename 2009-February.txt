@@ -1,0 +1,52 @@
+From guitard00d at yahoo.com  Thu Feb 26 07:41:25 2009
+From: guitard00d at yahoo.com (Guitar DOOD)
+Date: Wed, 25 Feb 2009 22:41:25 -0800 (PST)
+Subject: [horgand-users] Can't get 1.14 or 1.15 to run
+Message-ID: <411755.49012.qm@web36208.mail.mud.yahoo.com>
+
+
+I searched all over the web trying to find methods for getting horgand 1.14 to work and came up with nothing but useless non relative information. For example, the errors I was running into led me to this message:
+
+http://lalists.stanford.edu/lau/2007/10/0578.html
+
+Well, none of that helped because I even tried building version 1.14 on a system that never had any packaged version of horgand installed on it and I still got the same errors. I figured I'd try the CVS version, but it still yielded the exact same results.
+
+FWIW, I don't have a ~/.fltk directory, nor do I have an horgand.prefs anywhere on my hard drive. So, exactly what is the trick to compiling version 1.14 or 1.15 on a clean system and having it work with JACK?
+
+
+      
+
+
+From holborn at telefonica.net  Thu Feb 26 13:52:22 2009
+From: holborn at telefonica.net (Josep Andreu)
+Date: Thu, 26 Feb 2009 12:52:22 +0000
+Subject: [horgand-users] Can't get 1.14 or 1.15 to run
+In-Reply-To: <411755.49012.qm@web36208.mail.mud.yahoo.com>
+References: <411755.49012.qm@web36208.mail.mud.yahoo.com>
+Message-ID: <20090226125222.857acda5.holborn@telefonica.net>
+
+On Wed, 25 Feb 2009 22:41:25 -0800 (PST)
+Guitar DOOD <guitard00d at yahoo.com> wrote:
+
+ 
+> I searched all over the web trying to find methods for getting horgand 1.14 to work and came up with nothing but useless non relative information. For example, the errors I was running into led me to this message:
+> 
+> http://lalists.stanford.edu/lau/2007/10/0578.html
+> 
+> Well, none of that helped because I even tried building version 1.14 on a system that never had any packaged version of horgand installed on it and I still got the same errors. I figured I'd try the CVS version, but it still yielded the exact same results.
+> 
+> FWIW, I don't have a ~/.fltk directory, nor do I have an horgand.prefs anywhere on my hard drive. So, exactly what is the trick to compiling version 1.14 or 1.15 on a clean system and having it work with JACK?
+
+
+Well .... I really dont know if you have problems in order to compile the program or at the runtime ..... please send me all the info, including your distro, fltk version and all can help to diagnostique where is the problem.
+
+Josep
+
+
+
+
+
+-- 
+Josep Andreu <holborn at telefonica.net>
+
+

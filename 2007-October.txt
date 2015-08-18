@@ -1,0 +1,26 @@
+From holborn at telefonica.net  Wed Oct  3 15:35:57 2007
+From: holborn at telefonica.net (holborn)
+Date: Wed, 3 Oct 2007 14:35:57 +0100
+Subject: [horgand-users] New horgand demo
+Message-ID: <200710031435.57522.holborn@telefonica.net>
+
+
+Hi
+
+
+New demo with the new and the upcoming sound banks, 20 bars in tribute to Joe 
+Zawinul recorded with four standalone horgand and rosegarden on a PIII.
+
+
+ftp://ftp.berlios.de/pub/horgand/Horgand_demo4.ogg
+
+
+
+Josep
+
+
+
+
+
+
+
